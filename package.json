@@ -1,0 +1,23 @@
+{
+  "name": "@power-industries/typejs",
+  "version": "1.0.0",
+  "description": "Better TypeChecking in JavaScript using 'instanceof'",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/power-industries/TypeJS.git"
+  },
+  "author": "Philipp Steckenbauer <philipp.steckenbauer@power.industries>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/power-industries/TypeJS/issues"
+  },
+  "homepage": "https://github.com/power-industries/TypeJS#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "jest": "^26.1.0"
+  }
+}
