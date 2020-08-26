@@ -1,6 +1,6 @@
 {
   "name": "@power-industries/typejs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Better TypeChecking in JavaScript using 'instanceof'",
   "main": "index.js",
   "scripts": {
