@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/power-industries/TypeJS#readme",
   "devDependencies": {
-    "@types/jest": "^26.0.4",
-    "jest": "^26.1.0"
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.2"
   }
 }
